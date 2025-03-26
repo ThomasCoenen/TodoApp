@@ -4,8 +4,6 @@
 node_modules/
 node_modules
 
-client/build/
-client/dist/
 server/build/
 server/dist/
 
